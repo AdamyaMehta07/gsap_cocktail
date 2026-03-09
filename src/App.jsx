@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 
 
 
+
 gsap.registerPlugin(ScrollTrigger,SplitText);
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
     <Cocktails/>
     <About/>
     <Art/>
+  
     <Contact/>
   
 
