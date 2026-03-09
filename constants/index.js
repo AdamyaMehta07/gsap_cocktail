@@ -19,28 +19,28 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	name: "Margarita",
+	country: "MX",
+	detail: "Glass",
+	price: "₹450",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	name: "Classic Mojito",
+	country: "CU",
+	detail: "Glass",
+	price: "₹400",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Cosmopolitan",
+	country: "US",
+	detail: "Glass",
+	price: "₹480",
  },
  {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Whiskey Sour",
+	country: "US",
+	detail: "Glass",
+	price: "₹520",
  },
 ];
 
